@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-ergast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby source plugin to get the latest Formula 1 season data from the fantastic Ergast API with (uses axios).",
   "main": "index.js",
   "scripts": {
