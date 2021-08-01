@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-source-ergast",
+  "version": "1.0.0",
+  "description": "Gatsby source plugin to get the latest Formula 1 season data from the fantastic Ergast API with (uses axios).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "source",
+    "formula-1",
+    "ergast",
+    "axios",
+    "api"
+  ],
+  "author": "David Perkins <david@prkns.me> (https://prkns.me)",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/prkns/gatsby-source-ergast/issues"
+  },
+  "homepage": "https://github.com/prkns/gatsby-source-ergast",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
